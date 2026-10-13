@@ -181,15 +181,8 @@ O [notebook da Entrega 2](https://colab.research.google.com/drive/1BYZWHSyYCulxg
 ## 🎥 Vídeos de Demonstração (YouTube - Não Listados)
 
 <!-- PREENCHER: links dos vídeos no YouTube -->
-- 🎬 [Vídeo 1 - Entrega 1](LINK_VIDEO_ENTREGA_1)
-- 🎬 [Vídeo 2 - Entrega 2](LINK_VIDEO_ENTREGA_2)
-
-## 🗃 Histórico de lançamentos
-
-- 0.2.0 - 13/10/2026
-  * Entrega 2: comparação entre YOLO adaptada, YOLO padrão (COCO) e CNN treinada do zero, avaliando facilidade de uso, precisão, tempo de treinamento e tempo de inferência.
-- 0.1.0 - 13/10/2026
-  * Entrega 1: dataset de vacas e tratores, rotulação no Make Sense, treinamento do YOLOv5 com 30 e 60 épocas, validação, teste e conclusões.
+- 🎬 [Vídeo 1 - Entrega 1] https://www.youtube.com/watch?v=I19D-G9zr6c
+- 🎬 [Vídeo 2 - Entrega 2 ] https://www.youtube.com/watch?v=2HTZByFmJVg
 
 ## 📋 Licença
 
