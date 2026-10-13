@@ -1,0 +1,23 @@
+FIAP - Fase 6 - Capitulo 1: Visao Computacional com YOLO e CNN
+
+Integrantes:
+- Caike Minhano - RM569255
+- Renan Lucas Seni de Souza - RM570862
+
+Repositorio no GitHub:
+https://github.com/ckminhano/fase6_cap1
+
+Notebook da Entrega 1 (Google Colab):
+https://colab.research.google.com/drive/1JwUNS1_JBxDR104mPqeV2F1ZRh_vr5_t?usp=sharing
+
+Notebook da Entrega 2 (Google Colab):
+https://colab.research.google.com/drive/1BYZWHSyYCulxgXSSsVO7eRRnQEIAB75L?usp=sharing
+
+Pasta do projeto no Google Drive (imagens, rotulos e resultados):
+https://drive.google.com/drive/folders/1_6Jir3apSEAUZD4BkAb1kbXDA6n9GOQP?usp=sharing
+
+Video 1 - Entrega 1 (YouTube, nao listado):
+LINK_VIDEO_ENTREGA_1
+
+Video 2 - Entrega 2 (YouTube, nao listado):
+LINK_VIDEO_ENTREGA_2
